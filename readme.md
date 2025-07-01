@@ -1,1 +1,1 @@
-# UNINTER - Trabalho Logica de Programacao e Algoritmos (749443) / 4 questões
+# Programming Logic and Algorithms Work / Python / 4 Questions
